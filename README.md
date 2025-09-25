@@ -48,4 +48,4 @@ The repository contains the custom C\# solutions that replace standard Unity met
 ## Project Demonstration
 
 [**Direct Link to Solution Video**]
-*(Place the unlisted public link to your recorded solution video here. The video should clearly demonstrate all three sections working identically to the gray reference objects.)*
+https://drive.google.com/file/d/1TpIPMgq4JIYpgQe5cd1y5TJf59r7-fd0/view?usp=sharing 
