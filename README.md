@@ -48,4 +48,4 @@ The repository contains the custom C\# solutions that replace standard Unity met
 ## Project Demonstration
 
 [**Direct Link to Solution Video**]
-https://drive.google.com/file/d/1TpIPMgq4JIYpgQe5cd1y5TJf59r7-fd0/view?usp=sharing 
+*(https://drive.google.com/file/d/1TpIPMgq4JIYpgQe5cd1y5TJf59r7-fd0/view?usp=sharing )*
