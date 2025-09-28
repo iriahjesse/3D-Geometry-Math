@@ -1,4 +1,4 @@
-# H-Geometry: Custom 3D Math for AR/VR
+# 3D Geometry Task
 
 A C\# and Unity project demonstrating the **re-implementation of core 3D geometry components**—Matrices, Quaternions, and Vector Operations—from fundamental linear algebra principles for virtual and augmented reality environments.
 
