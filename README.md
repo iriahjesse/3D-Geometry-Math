@@ -19,7 +19,7 @@ This project required replicating the behavior of high-level Unity components us
     * **Matrix Multiplication** (`*` operator overloading).
     * Constructed Roll ($R_z$), Pitch ($R_x$), and Yaw ($R_y$) rotation matrices and applied them in the correct Euler order (Roll, then Pitch, then Yaw) to transform the blue cube.
 
-### Section 2: Advanced Geometric Transformations
+### Section 2: Geometric Transformations
 
 * **Custom Look-At Rotation (`MyLookAt.cs`):** Manually constructed the **$4 \times 4$ rotation matrix** required to make an object constantly "look at" a target. This involved:
     * Calculating the Look Vector $\mathbf{c} = \frac{\mathbf{p}-\mathbf{e}}{|\mathbf{p}-\mathbf{e}|}$.
