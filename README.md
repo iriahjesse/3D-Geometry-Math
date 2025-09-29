@@ -41,7 +41,6 @@ The repository contains the custom C\# solutions that replace standard Unity met
 | `MyLookAt.cs` | Logic for constructing the $4 \times 4$ rotation matrix used for the Look-At behavior. |
 | `FloorColor.cs` | Logic for floor tile color manipulation using vector magnitude and dot products. |
 | `README.md` | This document. |
-| `LICENSE` | MIT License. |
 
 ---
 
